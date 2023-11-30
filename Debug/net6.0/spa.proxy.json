@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44455",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\ferna\\OneDrive\\Ambiente de Trabalho\\DEIVID\\blueprint\\Blueprint\\Blueprint\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
